@@ -1,4 +1,10 @@
-### Hi there 👋
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=RubyAquaMarine" alt="Aquas.Trade" /> </p>
+
+<p align="center">
+  <a href="https://github.com/RubyAquaMarine?tab=followers">
+    <img src="https://img.shields.io/github/followers/RubyAquaMarine?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+</p>
 
 <!--
 **RubyAquaMarine/rubyaquamarine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
