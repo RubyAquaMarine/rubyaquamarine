@@ -9,7 +9,7 @@
       <p> <a href="https://aquas.trade"> Aquas.Trade</a></p>
   
 <h2>Frontend</h2>
-      <p> <a href="https://aquas.trade](https://github.com/RubyAquaMarine/aquastrade-fe"> repo : aquastrade-fe</a></p>
+      <p> <a href="https://github.com/RubyAquaMarine/aquastrade-fe"> repo : aquastrade-fe</a></p>
 
  
 <h2>Smart Contracts</h2>
