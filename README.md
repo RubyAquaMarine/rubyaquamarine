@@ -8,10 +8,10 @@
 <h2>Swap Tokens on SKALE Network</h2>
       <p> <a href="https://aquas.trade"> Aquas.Trade</a></p>
   
-<h2>Column 2</h2>
-      <p>This is the content of column 2.</p>
+<h2>Frontend</h2>
+      <p> <a href="https://aquas.trade"> Aquas.Trade</a></p>
 
  
-<h2>Column 3</h2>
-    <p>This is the content of column 3.</p>
+<h2>Smart Contracts</h2>
+    <p> <a href="https://aquas.trade"> Aquas.Trade</a></p>
   
