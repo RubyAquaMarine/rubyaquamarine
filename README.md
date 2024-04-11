@@ -22,7 +22,7 @@ Aquas.Trade is the community driven DEX on the SKALE Network - a hybrid L1/L2 so
 
 
 <h3>NFT-Enhanced UX</h3>
-Simple Utility: swap fee discounts in a 3 tier class. Limited NFT collections: 5000,500,50 and a permissionless NFT MarketPlace ffor everyone.
+Simple Utility: swap fee discounts in a 3 tier class. Limited NFT collections: 5000,500,50 and a permissionless NFT MarketPlace for everyone.
 
 
 
